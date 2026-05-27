@@ -4,7 +4,7 @@
 メモアプリの基本的なCRUD動作をReactで実践する（非保存）
 
 ## リンク
-完成
+[シンプルメモアプリ](https://kouta-wolf.github.io/react_memo_app/)
 
 ## 学習の目的
 - Reactの `useState`で配列・オブジェクトのイミュータブルの扱いを学ぶ
